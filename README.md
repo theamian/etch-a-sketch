@@ -1,2 +1,2 @@
-Etch-a-sketch - like page for The Odin project
+Etch-a-sketch - like page for The Odin Project
 
